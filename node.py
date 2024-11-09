@@ -6,7 +6,7 @@ import uuid
 from loguru import logger
 
 # Constants
-NP_TOKEN = "WRITE_YOUR_NP_TOKEN_HERE"
+NP_TOKEN = "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxMzA0NzI0NzU5MDM2MDM1MDcyIiwiaWF0IjoxNzMxMTQxMDM0LCJleHAiOjE3MzIzNTA2MzR9.UTuBpHHGracwMjxicwmrWG85OVzqg_78VZyiHlkHe-wuTwhBDfSu9RD15HlqjTxcdz2KQoppRXchsXWCDL_9Uw"
 PING_INTERVAL = 30  # seconds
 RETRIES = 60  # Global retry counter for ping failures
 
